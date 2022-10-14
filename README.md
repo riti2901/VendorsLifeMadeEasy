@@ -1,2 +1,1 @@
-# VendorsLifeMadeEasy
-Website for the welfare of street vendors.
+Website for the welfare for the street vendors. In this website we will be providing all the details of the street vendors selling fruits and vegetables. Customers Can see all the vendors available across 1km and can get fresh fruits and vegetables at their home. There would be two options Either vendors can do the Home delivery or customers can  pick up by own.
